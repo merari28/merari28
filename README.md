@@ -4,7 +4,7 @@
 
 [![Typing](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Construyo+soluciones+digitales+con+prop%C3%B3sito;Python+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+Next.js;Desarrolladora+Web+%E2%80%94+Encarnaci%C3%B3n%2C+Paraguay)](https://github.com/merari28)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logoColor=white)]([https://github.com/merari28](https://merari-caceres.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logoColor=white)]((https://merari-caceres.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F59E0B)](https://linkedin.com/in/meraricaceres)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:merarivillalba@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=F59E0B)](https://wa.me/595986655946)
