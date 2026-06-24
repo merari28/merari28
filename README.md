@@ -68,7 +68,4 @@
 
 <div align="center">
 
-![Snake contribution](https://github.com/merari28/merari28/blob/snake-output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake contribution dark](https://github.com/merari28/merari28/blob/snake-output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 </div>
