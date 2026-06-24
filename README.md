@@ -35,6 +35,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=F59E0B)
 ![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=F59E0B)
 ![Django](https://img.shields.io/badge/Django-0A0A0A?style=flat-square&logo=django&logoColor=F59E0B)
+![Odoo](https://img.shields.io/badge/Odoo-0A0A0A?style=flat-square&logo=odoo&logoColor=F59E0B)
 ![DRF](https://img.shields.io/badge/DRF-0A0A0A?style=flat-square&logo=django&logoColor=F59E0B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F59E0B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=F59E0B)
@@ -47,7 +48,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=F59E0B)
 ![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonwebservices&logoColor=F59E0B)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=F59E0B)
-![Odoo](https://img.shields.io/badge/Odoo-0A0A0A?style=flat-square&logo=odoo&logoColor=F59E0B)
 ![Playwright](https://img.shields.io/badge/Playwright-0A0A0A?style=flat-square&logo=playwright&logoColor=F59E0B)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F59E0B)
 
